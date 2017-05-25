@@ -24,7 +24,7 @@ Das Plugin ist nun einsatzbereit. Solltet ihr schon einiges an eurem Forum gemac
 {$show_relation}  // Übersicht der Beziehungen
 * ruft member_profile_rprelations auf</blockquote>
 
-<h1>Template-Änderungen<h1>
+<h1>Template-Änderungen</h1>
 Folgende Templates werden durch dieses Plugin <i>neu hinzugefügt</i>:
 <ul>
 <li>member_profile_rprelations
